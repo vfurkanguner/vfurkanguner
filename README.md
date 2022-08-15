@@ -5,6 +5,6 @@ I'm Furkan. I am passionate about creating web and mobile apps that are easy to 
 
 💻 I'm working in multiple projects, those projects are called Soldd, WhatsappHero and TailwindDrop.
 
-👉🏻 I love using React, NextJS, TailwindCSS!
+👉🏻 I love using React,React Native, NextJS, TailwindCSS!
  
 🌱 I’m currently learning databases (Postgresql, MongoDB) 
